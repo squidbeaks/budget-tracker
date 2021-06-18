@@ -1,0 +1,21 @@
+{
+  "name": "Budget Tracker",
+  "short_name": "Budgeteers",
+  "description": "An app that allows you to keep track of your debits and credits.",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
