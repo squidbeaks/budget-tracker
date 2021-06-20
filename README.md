@@ -3,6 +3,8 @@
   ## Description
   This is a PWA application that allows users to keep track of their credits and debits. It supports offline functionality and is intended for users on-the-go who may not always have the most reliable service.
 
+  ![screenshot of budget tracker application](./public/images/budgettracker.png)
+
   ## Table of Contents
 
   * [Installation](#installation)
